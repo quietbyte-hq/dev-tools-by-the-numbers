@@ -1,0 +1,88 @@
+{
+  "test": "scrapers",
+  "date": "2026-10-14",
+  "site": "books.toscrape.com",
+  "pages": 50,
+  "expected_items": 1000,
+  "concurrency": 8,
+  "memory_cap": "2g",
+  "cpus": 2,
+  "results": [
+    {
+      "tool": "Scrapy",
+      "version": "2.13.4",
+      "install_seconds": 8.5,
+      "install_mb": 85,
+      "items": 1000,
+      "unique_titles": 999,
+      "prices_parsed": 1000,
+      "seconds": 4.24,
+      "peak_mb": 70.2,
+      "errors": 0,
+      "runs_seconds": [
+        6.13,
+        4.21,
+        4.24
+      ],
+      "note": "",
+      "pip": "scrapy==2.13.*"
+    },
+    {
+      "tool": "Crawlee",
+      "version": "1.10.4",
+      "install_seconds": 7.3,
+      "install_mb": 57,
+      "items": 1000,
+      "unique_titles": 999,
+      "prices_parsed": 1000,
+      "seconds": 3.42,
+      "peak_mb": 80.4,
+      "errors": 0,
+      "runs_seconds": [
+        3.42,
+        2.84,
+        3.65
+      ],
+      "note": "",
+      "pip": "crawlee[beautifulsoup]"
+    },
+    {
+      "tool": "Scrapling",
+      "version": "0.4.15",
+      "install_seconds": 10.7,
+      "install_mb": 348,
+      "items": 1000,
+      "unique_titles": 999,
+      "prices_parsed": 1000,
+      "seconds": 7.33,
+      "peak_mb": 51.1,
+      "errors": 0,
+      "runs_seconds": [
+        7.25,
+        7.55,
+        7.33
+      ],
+      "note": "",
+      "pip": "scrapling[fetchers]"
+    },
+    {
+      "tool": "Crawl4AI",
+      "version": "0.9.4",
+      "install_seconds": 133.3,
+      "install_mb": 2164,
+      "items": 1000,
+      "unique_titles": 999,
+      "prices_parsed": 1000,
+      "seconds": 13.33,
+      "peak_mb": 597.3,
+      "errors": 0,
+      "runs_seconds": [
+        12.0,
+        13.89,
+        13.33
+      ],
+      "note": "drives a headless Chromium browser by default",
+      "pip": "crawl4ai"
+    }
+  ]
+}

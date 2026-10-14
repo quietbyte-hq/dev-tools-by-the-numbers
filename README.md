@@ -30,6 +30,7 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | `data/npm-weekly.csv` | Downloads per package per week (Mon-Sun) | [npm downloads API](https://github.com/npm/registry/blob/main/docs/download-counts.md) |
 | `data/github.csv` | Stars, forks and open issues, one row per repo per day | [GitHub REST API](https://docs.github.com/rest) |
 | `data/huggingface-trending.csv` | Trending models with likes and 30-day downloads | [Hugging Face Hub API](https://huggingface.co/docs/hub/api) |
+| `bench/scrapers/` + `data/bench-scrapers-*.json` | Our hands-on scraper test: same 50 pages for every tool, 3 runs, fresh container, 2 GB cap | run it yourself: `python crawl_scrapy.py` etc. |
 
 ## Notes
 
