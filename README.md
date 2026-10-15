@@ -22,6 +22,10 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | Playwright | `playwright` | 26,049,365 | +3% |
 | Transformers | `transformers` | 24,289,038 | -4% |
 
+## Videos
+
+- 2026-10-14 · Short: [#1 trending on Hugging Face: google/embeddinggemma-2](https://youtube.com/shorts/HDwa4fuYvA4)
+
 ## Files
 
 | File | What | Source |
