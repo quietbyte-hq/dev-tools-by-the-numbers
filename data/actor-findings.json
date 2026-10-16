@@ -1,0 +1,93 @@
+[
+ {
+  "key": "actor:workday-h1b:2026-10",
+  "month": "2026-10",
+  "finding": "79% of job ads at big H-1B sponsors never mention visas",
+  "tool": "https://apify.com/quietbyte/workday-jobs-visa",
+  "source": "745 Workday job ads, collected 2026-10-13",
+  "facts": {
+   "ads": 745,
+   "employers": 30,
+   "silent": 586,
+   "refuse": 144,
+   "offer": 15,
+   "pct": [
+    79,
+    19,
+    2
+   ],
+   "day": "2026-10-13",
+   "visa": "H-1B"
+  }
+ },
+ {
+  "key": "actor:remote-us-only:2026-10",
+  "month": "2026-10",
+  "finding": "59% of these 'remote' jobs are open to US residents only",
+  "tool": "https://apify.com/quietbyte/remote-jobs-by-country",
+  "source": "200 Jobicy remote jobs, October 2026",
+  "facts": {
+   "sample": 200,
+   "us_only": 118,
+   "other": 82,
+   "pct": [
+    59,
+    41
+   ],
+   "year": 2026
+  }
+ },
+ {
+  "key": "actor:reed-uk-visa:2026-10",
+  "month": "2026-10",
+  "finding": "29 of 30 UK job ads that mention visa sponsorship refuse it",
+  "tool": "https://apify.com/quietbyte/reed-jobs-uk-visa",
+  "source": "30 direct-employer ads on Reed and the UK sponsor register, 2026-10-14",
+  "facts": {
+   "ads": 30,
+   "refuse": 29,
+   "licensed": 19,
+   "pct": [
+    97,
+    63
+   ],
+   "day": "2026-10-14"
+  }
+ },
+ {
+  "key": "actor:podcast-transcripts:2026-10",
+  "month": "2026-10",
+  "finding": "Only 10 of 98 top podcasts publish a transcript in their feed",
+  "tool": "https://apify.com/quietbyte/podcast-transcripts",
+  "source": "Apple US top podcasts and their RSS feeds, 2026-10-09",
+  "facts": {
+   "top": 100,
+   "answered": 98,
+   "with": 10,
+   "day": "2026-10-09"
+  }
+ },
+ {
+  "key": "actor:ats-visa-mentions:2026-10",
+  "month": "2026-10",
+  "finding": "Tech job ads that mention visas: 83% are a no",
+  "tool": "https://apify.com/quietbyte/ats-jobs-visa",
+  "source": "1,437 job ads on 45 company job boards, collected 2026-10-16",
+  "facts": {
+   "ads": 1437,
+   "companies": 45,
+   "mention": 64,
+   "refuse": 53,
+   "offer": 11,
+   "mixed": 0,
+   "headline": 83,
+   "pct": [
+    83,
+    17,
+    0
+   ],
+   "day": "2026-10-16",
+   "month": "2026-10"
+  }
+ }
+]

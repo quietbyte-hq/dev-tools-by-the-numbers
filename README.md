@@ -22,8 +22,22 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | Playwright | `playwright` | 26,049,365 | +3% |
 | Transformers | `transformers` | 24,289,038 | -4% |
 
+## Findings from our scrapers
+
+Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only; the job ads themselves belong to the employers and job boards and are not included.
+
+| Month | Finding | Tool |
+|---|---|---|
+| 2026-10 | 79% of job ads at big H-1B sponsors never mention visas | [workday-jobs-visa](https://apify.com/quietbyte/workday-jobs-visa) |
+| 2026-10 | 59% of these 'remote' jobs are open to US residents only | [remote-jobs-by-country](https://apify.com/quietbyte/remote-jobs-by-country) |
+| 2026-10 | 29 of 30 UK job ads that mention visa sponsorship refuse it | [reed-jobs-uk-visa](https://apify.com/quietbyte/reed-jobs-uk-visa) |
+| 2026-10 | Only 10 of 98 top podcasts publish a transcript in their feed | [podcast-transcripts](https://apify.com/quietbyte/podcast-transcripts) |
+| 2026-10 | Tech job ads that mention visas: 83% are a no | [ats-jobs-visa](https://apify.com/quietbyte/ats-jobs-visa) |
+
 ## Videos
 
+- 2026-10-15 · Short: [Crawlee downloads +26% in a week](https://youtube.com/shorts/Ttw_WLyqzrw)
+- 2026-10-15 · Video: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtu.be/gVIjyLgEE_w)
 - 2026-10-14 · Short: [#1 trending on Hugging Face: google/embeddinggemma-2](https://youtube.com/shorts/HDwa4fuYvA4)
 
 ## Files
@@ -34,6 +48,7 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | `data/npm-weekly.csv` | Downloads per package per week (Mon-Sun) | [npm downloads API](https://github.com/npm/registry/blob/main/docs/download-counts.md) |
 | `data/github.csv` | Stars, forks and open issues, one row per repo per day | [GitHub REST API](https://docs.github.com/rest) |
 | `data/huggingface-trending.csv` | Trending models with likes and 30-day downloads | [Hugging Face Hub API](https://huggingface.co/docs/hub/api) |
+| `data/actor-findings.json` | Findings from our Apify Actors: the counts behind each number, with the sample described in `source` | our Actors at [apify.com/quietbyte](https://apify.com/quietbyte) |
 | `bench/scrapers/` + `data/bench-scrapers-*.json` | Our hands-on scraper test: same 50 pages for every tool, 3 runs, fresh container, 2 GB cap | run it yourself: `python crawl_scrapy.py` etc. |
 
 ## Notes
