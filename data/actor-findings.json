@@ -66,28 +66,5 @@
    "with": 10,
    "day": "2026-10-09"
   }
- },
- {
-  "key": "actor:ats-visa-mentions:2026-10",
-  "month": "2026-10",
-  "finding": "Tech job ads that mention visas: 83% are a no",
-  "tool": "https://apify.com/quietbyte/ats-jobs-visa",
-  "source": "1,437 job ads on 45 company job boards, collected 2026-10-16",
-  "facts": {
-   "ads": 1437,
-   "companies": 45,
-   "mention": 64,
-   "refuse": 53,
-   "offer": 11,
-   "mixed": 0,
-   "headline": 83,
-   "pct": [
-    83,
-    17,
-    0
-   ],
-   "day": "2026-10-16",
-   "month": "2026-10"
-  }
  }
 ]

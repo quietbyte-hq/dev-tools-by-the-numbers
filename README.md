@@ -32,10 +32,12 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 | 2026-10 | 59% of these 'remote' jobs are open to US residents only | [remote-jobs-by-country](https://apify.com/quietbyte/remote-jobs-by-country) |
 | 2026-10 | 29 of 30 UK job ads that mention visa sponsorship refuse it | [reed-jobs-uk-visa](https://apify.com/quietbyte/reed-jobs-uk-visa) |
 | 2026-10 | Only 10 of 98 top podcasts publish a transcript in their feed | [podcast-transcripts](https://apify.com/quietbyte/podcast-transcripts) |
-| 2026-10 | Tech job ads that mention visas: 83% are a no | [ats-jobs-visa](https://apify.com/quietbyte/ats-jobs-visa) |
 
 ## Videos
 
+- 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
+- 2026-10-17 · Short: [79% of job ads at big H-1B sponsors never mention visas](https://youtube.com/shorts/prOnzR997Mk)
+- 2026-10-16 · Short: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtube.com/shorts/vhWIHusCwo8)
 - 2026-10-15 · Short: [Crawlee downloads +26% in a week](https://youtube.com/shorts/Ttw_WLyqzrw)
 - 2026-10-15 · Video: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtu.be/gVIjyLgEE_w)
 - 2026-10-14 · Short: [#1 trending on Hugging Face: google/embeddinggemma-2](https://youtube.com/shorts/HDwa4fuYvA4)
