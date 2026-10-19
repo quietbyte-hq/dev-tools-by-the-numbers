@@ -5,171 +5,200 @@ week_ending,package,tool,downloads
 2026-09-27,anthropic,Anthropic SDK,35803976
 2026-10-04,anthropic,Anthropic SDK,40152274
 2026-10-11,anthropic,Anthropic SDK,41718558
+2026-10-18,anthropic,Anthropic SDK,42327300
 2026-09-06,beautifulsoup4,Beautiful Soup,70805212
 2026-09-13,beautifulsoup4,Beautiful Soup,67711720
 2026-09-20,beautifulsoup4,Beautiful Soup,67468346
 2026-09-27,beautifulsoup4,Beautiful Soup,66513033
 2026-10-04,beautifulsoup4,Beautiful Soup,69633543
 2026-10-11,beautifulsoup4,Beautiful Soup,68614729
+2026-10-18,beautifulsoup4,Beautiful Soup,69797422
 2026-09-06,black,Black,25708503
 2026-09-13,black,Black,26137982
 2026-09-20,black,Black,26242635
 2026-09-27,black,Black,25907047
 2026-10-04,black,Black,27623170
 2026-10-11,black,Black,28394734
+2026-10-18,black,Black,27495895
 2026-09-06,crawl4ai,Crawl4AI,286403
 2026-09-13,crawl4ai,Crawl4AI,289575
 2026-09-20,crawl4ai,Crawl4AI,257521
 2026-09-27,crawl4ai,Crawl4AI,288944
 2026-10-04,crawl4ai,Crawl4AI,363129
 2026-10-11,crawl4ai,Crawl4AI,288153
+2026-10-18,crawl4ai,Crawl4AI,312686
 2026-09-06,crawlee,Crawlee,240533
 2026-09-13,crawlee,Crawlee,200550
 2026-09-20,crawlee,Crawlee,177543
 2026-09-27,crawlee,Crawlee,213865
 2026-10-04,crawlee,Crawlee,176372
 2026-10-11,crawlee,Crawlee,237809
+2026-10-18,crawlee,Crawlee,258738
 2026-09-06,crewai,CrewAI,566555
 2026-09-13,crewai,CrewAI,585356
 2026-09-20,crewai,CrewAI,549919
 2026-09-27,crewai,CrewAI,559890
 2026-10-04,crewai,CrewAI,590014
 2026-10-11,crewai,CrewAI,633544
+2026-10-18,crewai,CrewAI,668642
 2026-09-06,httpx,HTTPX,134512896
 2026-09-13,httpx,HTTPX,136301961
 2026-09-20,httpx,HTTPX,141518265
 2026-09-27,httpx,HTTPX,146935946
 2026-10-04,httpx,HTTPX,155501752
 2026-10-11,httpx,HTTPX,160875391
+2026-10-18,httpx,HTTPX,167582012
 2026-09-06,huggingface-hub,Hugging Face Hub,52081014
 2026-09-13,huggingface-hub,Hugging Face Hub,51952489
 2026-09-20,huggingface-hub,Hugging Face Hub,52381091
 2026-09-27,huggingface-hub,Hugging Face Hub,54732162
 2026-10-04,huggingface-hub,Hugging Face Hub,59288257
 2026-10-11,huggingface-hub,Hugging Face Hub,59498455
+2026-10-18,huggingface-hub,Hugging Face Hub,62578174
 2026-09-06,langchain,LangChain,38155101
 2026-09-13,langchain,LangChain,39682593
 2026-09-20,langchain,LangChain,39535241
 2026-09-27,langchain,LangChain,40079519
 2026-10-04,langchain,LangChain,40355002
 2026-10-11,langchain,LangChain,36001937
+2026-10-18,langchain,LangChain,37227452
 2026-09-06,litellm,LiteLLM,19205331
 2026-09-13,litellm,LiteLLM,19544325
 2026-09-20,litellm,LiteLLM,22406610
 2026-09-27,litellm,LiteLLM,22618218
 2026-10-04,litellm,LiteLLM,22562488
 2026-10-11,litellm,LiteLLM,21592037
+2026-10-18,litellm,LiteLLM,22855757
 2026-09-06,llama-index,LlamaIndex,788351
 2026-09-13,llama-index,LlamaIndex,708080
 2026-09-20,llama-index,LlamaIndex,697228
 2026-09-27,llama-index,LlamaIndex,670978
 2026-10-04,llama-index,LlamaIndex,671168
 2026-10-11,llama-index,LlamaIndex,664217
+2026-10-18,llama-index,LlamaIndex,648361
 2026-09-06,mcp,MCP Python SDK,47870020
 2026-09-13,mcp,MCP Python SDK,52216597
 2026-09-20,mcp,MCP Python SDK,54216448
 2026-09-27,mcp,MCP Python SDK,53929472
 2026-10-04,mcp,MCP Python SDK,59791459
 2026-10-11,mcp,MCP Python SDK,61275340
+2026-10-18,mcp,MCP Python SDK,64748152
 2026-09-06,ollama,Ollama,2772432
 2026-09-13,ollama,Ollama,2798547
 2026-09-20,ollama,Ollama,2862071
 2026-09-27,ollama,Ollama,3097634
 2026-10-04,ollama,Ollama,3738109
 2026-10-11,ollama,Ollama,2991026
+2026-10-18,ollama,Ollama,2973897
 2026-09-06,openai,OpenAI SDK,63257948
 2026-09-13,openai,OpenAI SDK,65486419
 2026-09-20,openai,OpenAI SDK,68213095
 2026-09-27,openai,OpenAI SDK,70123710
 2026-10-04,openai,OpenAI SDK,73705000
 2026-10-11,openai,OpenAI SDK,76138589
+2026-10-18,openai,OpenAI SDK,81286857
 2026-09-06,pandas,pandas,121064642
 2026-09-13,pandas,pandas,118846887
 2026-09-20,pandas,pandas,125209424
 2026-09-27,pandas,pandas,129551189
 2026-10-04,pandas,pandas,139607165
 2026-10-11,pandas,pandas,143582496
+2026-10-18,pandas,pandas,146274900
 2026-09-06,pdm,PDM,2113855
 2026-09-13,pdm,PDM,1485053
 2026-09-20,pdm,PDM,255916
 2026-09-27,pdm,PDM,272443
 2026-10-04,pdm,PDM,326621
 2026-10-11,pdm,PDM,344060
+2026-10-18,pdm,PDM,319245
 2026-09-06,pip,pip,94104584
 2026-09-13,pip,pip,93442116
 2026-09-20,pip,pip,94797189
 2026-09-27,pip,pip,95268706
 2026-10-04,pip,pip,99273769
 2026-10-11,pip,pip,101840026
+2026-10-18,pip,pip,103285295
 2026-09-06,playwright,Playwright,19607305
 2026-09-13,playwright,Playwright,21201540
 2026-09-20,playwright,Playwright,22148765
 2026-09-27,playwright,Playwright,22491626
 2026-10-04,playwright,Playwright,25220866
 2026-10-11,playwright,Playwright,26049365
+2026-10-18,playwright,Playwright,28058036
 2026-09-06,poetry,Poetry,9797117
 2026-09-13,poetry,Poetry,9328186
 2026-09-20,poetry,Poetry,9247955
 2026-09-27,poetry,Poetry,9370874
 2026-10-04,poetry,Poetry,10088588
 2026-10-11,poetry,Poetry,10137240
+2026-10-18,poetry,Poetry,9989527
 2026-09-06,polars,Polars,12493025
 2026-09-13,polars,Polars,11550383
 2026-09-20,polars,Polars,11629901
 2026-09-27,polars,Polars,12023186
 2026-10-04,polars,Polars,12616569
 2026-10-11,polars,Polars,12679887
+2026-10-18,polars,Polars,13925301
 2026-09-06,pydantic-ai,Pydantic AI,1228010
 2026-09-13,pydantic-ai,Pydantic AI,1221652
 2026-09-20,pydantic-ai,Pydantic AI,1195906
 2026-09-27,pydantic-ai,Pydantic AI,1290232
 2026-10-04,pydantic-ai,Pydantic AI,1370179
 2026-10-11,pydantic-ai,Pydantic AI,1390168
+2026-10-18,pydantic-ai,Pydantic AI,1473609
 2026-09-06,requests,Requests,268877908
 2026-09-13,requests,Requests,269233540
 2026-09-20,requests,Requests,275842919
 2026-09-27,requests,Requests,281589367
 2026-10-04,requests,Requests,302365689
 2026-10-11,requests,Requests,310635492
+2026-10-18,requests,Requests,316864419
 2026-09-06,ruff,Ruff,65683980
 2026-09-13,ruff,Ruff,66079710
 2026-09-20,ruff,Ruff,67684156
 2026-09-27,ruff,Ruff,71037647
 2026-10-04,ruff,Ruff,80533605
 2026-10-11,ruff,Ruff,83544305
+2026-10-18,ruff,Ruff,87679412
 2026-09-06,scrapling,Scrapling,167893
 2026-09-13,scrapling,Scrapling,223861
 2026-09-20,scrapling,Scrapling,211709
 2026-09-27,scrapling,Scrapling,206650
 2026-10-04,scrapling,Scrapling,227879
 2026-10-11,scrapling,Scrapling,217287
+2026-10-18,scrapling,Scrapling,254036
 2026-09-06,scrapy,Scrapy,919729
 2026-09-13,scrapy,Scrapy,1151377
 2026-09-20,scrapy,Scrapy,1056079
 2026-09-27,scrapy,Scrapy,974162
 2026-10-04,scrapy,Scrapy,922941
 2026-10-11,scrapy,Scrapy,1016206
+2026-10-18,scrapy,Scrapy,1174559
 2026-09-06,selenium,Selenium,6414618
 2026-09-13,selenium,Selenium,6187742
 2026-09-20,selenium,Selenium,6541282
 2026-09-27,selenium,Selenium,6625506
 2026-10-04,selenium,Selenium,6977536
 2026-10-11,selenium,Selenium,6982227
+2026-10-18,selenium,Selenium,7074316
 2026-09-06,transformers,Transformers,21648536
 2026-09-13,transformers,Transformers,20461829
 2026-09-20,transformers,Transformers,21629511
 2026-09-27,transformers,Transformers,23275181
 2026-10-04,transformers,Transformers,25270228
 2026-10-11,transformers,Transformers,24289038
+2026-10-18,transformers,Transformers,24852055
 2026-09-06,uv,uv,28008035
 2026-09-13,uv,uv,28374971
 2026-09-20,uv,uv,27772042
 2026-09-27,uv,uv,31484748
 2026-10-04,uv,uv,31910102
 2026-10-11,uv,uv,31636183
+2026-10-18,uv,uv,34574139
 2026-09-06,vllm,vLLM,526872
 2026-09-13,vllm,vLLM,423847
 2026-09-20,vllm,vLLM,408749
 2026-09-27,vllm,vLLM,441278
 2026-10-04,vllm,vLLM,494016
 2026-10-11,vllm,vLLM,465993
+2026-10-18,vllm,vLLM,423782
