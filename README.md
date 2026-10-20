@@ -35,6 +35,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-20 · Short: [Free rebuilds of 7 Adobe apps: 128,309 GitHub stars in 17 days](https://youtube.com/shorts/aDBxRyiYAm0)
+- 2026-10-19 · Short: [open_scion: 1,029 GitHub stars in 1 day](https://youtube.com/shorts/KS7i2OmPJU0)
 - 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
 - 2026-10-17 · Short: [79% of job ads at big H-1B sponsors never mention visas](https://youtube.com/shorts/prOnzR997Mk)
 - 2026-10-16 · Short: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtube.com/shorts/vhWIHusCwo8)
