@@ -35,6 +35,11 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-21 · Short: [pip vs uv vs Poetry vs PDM: real PyPI download data (Oct 2026)](https://youtube.com/shorts/GpBevHVdJiE)
+- 2026-10-21 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/N1p9AcaNlV4)
+- 2026-10-21 · Short: [Anthropic: Claude Haiku 5.5: $0.1 per million input tokens](https://youtube.com/shorts/Hvgo7wZMc80)
+- 2026-10-20 · Short: [jev-ultrafast: 22,965 GitHub stars in 29 days](https://youtube.com/shorts/77ZjSUZdGK0)
+- 2026-10-20 · Video: [Is pip still the default? PyPI numbers vs uv, Poetry, PDM](https://youtu.be/rw4fZZTtPMc)
 - 2026-10-20 · Short: [Free rebuilds of 7 Adobe apps: 128,309 GitHub stars in 17 days](https://youtube.com/shorts/aDBxRyiYAm0)
 - 2026-10-19 · Short: [open_scion: 1,029 GitHub stars in 1 day](https://youtube.com/shorts/KS7i2OmPJU0)
 - 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
