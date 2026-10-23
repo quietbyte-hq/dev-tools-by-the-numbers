@@ -35,6 +35,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-22 · Short: [Google: Nano Banana 2.1: $1.5 per million input tokens](https://youtube.com/shorts/ZfZyGJwfmJQ)
+- 2026-10-22 · Video: [Who's gaining ground: Playwright vs Selenium (Oct 2026)](https://youtu.be/YbhEN-qBgo0)
 - 2026-10-21 · Short: [pip vs uv vs Poetry vs PDM: real PyPI download data (Oct 2026)](https://youtube.com/shorts/GpBevHVdJiE)
 - 2026-10-21 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/N1p9AcaNlV4)
 - 2026-10-21 · Short: [Anthropic: Claude Haiku 5.5: $0.1 per million input tokens](https://youtube.com/shorts/Hvgo7wZMc80)
