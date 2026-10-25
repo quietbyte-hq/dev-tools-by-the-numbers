@@ -35,6 +35,12 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-25 · Short: [LiquidAI: LFM2.5-24B-A2B: $0.05 per million input tokens](https://youtube.com/shorts/aa9tbhozlHM)
+- 2026-10-25 · Video: [AI & dev tools by the numbers: 2026-W43](https://youtu.be/nW6dSG7QUQE)
+- 2026-10-24 · Short: [59% of these 'remote' jobs are open to US residents only](https://youtube.com/shorts/SBygL37pp_E)
+- 2026-10-24 · Short: [#2 trending on Hugging Face: black-forest-labs/flux-3-image-klein-comfy](https://youtube.com/shorts/ztcOj_msJZ4)
+- 2026-10-23 · Short: [AI agents that reverse-engineer games: 8,089 GitHub stars in 17 days](https://youtube.com/shorts/LWBFbDGK5Tc)
+- 2026-10-23 · Short: [Crawlee downloads +29% in a week](https://youtube.com/shorts/fVOv7zbbDmU)
 - 2026-10-22 · Short: [Google: Nano Banana 2.1: $1.5 per million input tokens](https://youtube.com/shorts/ZfZyGJwfmJQ)
 - 2026-10-22 · Video: [Who's gaining ground: Playwright vs Selenium (Oct 2026)](https://youtu.be/YbhEN-qBgo0)
 - 2026-10-21 · Short: [pip vs uv vs Poetry vs PDM: real PyPI download data (Oct 2026)](https://youtube.com/shorts/GpBevHVdJiE)
