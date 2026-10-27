@@ -35,6 +35,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-27 · Short: [Scrapy downloads +27% in a week](https://youtube.com/shorts/3ZnEvSi6o7Y)
+- 2026-10-26 · Short: [#4 trending on Hugging Face: black-forest-labs/flux-3-image-klein](https://youtube.com/shorts/cXkUS2aIALY)
 - 2026-10-25 · Short: [LiquidAI: LFM2.5-24B-A2B: $0.05 per million input tokens](https://youtube.com/shorts/aa9tbhozlHM)
 - 2026-10-25 · Video: [AI & dev tools by the numbers: 2026-W43](https://youtu.be/nW6dSG7QUQE)
 - 2026-10-24 · Short: [59% of these 'remote' jobs are open to US residents only](https://youtube.com/shorts/SBygL37pp_E)
