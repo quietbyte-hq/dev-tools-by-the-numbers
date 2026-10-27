@@ -1,1 +1,11 @@
 week_ending,package,tool,downloads
+2026-10-25,@anthropic-ai/claude-code,Claude Code,6569658
+2026-10-25,@anthropic-ai/sdk,Anthropic SDK,32088751
+2026-10-25,@google/gemini-cli,Gemini CLI,227621
+2026-10-25,@modelcontextprotocol/sdk,MCP TypeScript SDK,43248328
+2026-10-25,@openai/codex,Codex CLI,13779475
+2026-10-25,ai,Vercel AI SDK,20421326
+2026-10-25,crawlee,Crawlee,95950
+2026-10-25,openai,OpenAI SDK,28034890
+2026-10-25,playwright,Playwright,77768888
+2026-10-25,puppeteer,Puppeteer,7375521
