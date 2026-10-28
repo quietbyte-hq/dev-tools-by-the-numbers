@@ -459,3 +459,49 @@ day,repo,tool,stars,forks,open_issues
 2026-10-27,traefik/traefik,Traefik,65394,6277,965
 2026-10-27,unclecode/crawl4ai,Crawl4AI,86409,8991,279
 2026-10-27,vllm-project/vllm,vLLM,95709,24067,9612
+2026-10-28,BerriAI/litellm,LiteLLM,62251,12796,5650
+2026-10-28,BurntSushi/ripgrep,ripgrep,69544,4795,211
+2026-10-28,D4Vinci/Scrapling,Scrapling,90209,9328,22
+2026-10-28,ajeetdsouza/zoxide,zoxide,40342,934,156
+2026-10-28,anthropics/anthropic-sdk-python,Anthropic SDK,4019,898,225
+2026-10-28,apify/crawlee-python,Crawlee,9633,818,97
+2026-10-28,astral-sh/ruff,Ruff,50347,2561,2230
+2026-10-28,astral-sh/uv,uv,91320,3717,3008
+2026-10-28,atuinsh/atuin,Atuin,32117,1014,426
+2026-10-28,caddyserver/caddy,Caddy,78522,5200,295
+2026-10-28,coollabsio/coolify,Coolify,65205,5862,321
+2026-10-28,crewAIInc/crewAI,CrewAI,60225,8935,880
+2026-10-28,encode/httpx,HTTPX,15712,3252,140
+2026-10-28,firecrawl/firecrawl,Firecrawl,196414,10370,697
+2026-10-28,ggml-org/llama.cpp,llama.cpp,132671,24911,2592
+2026-10-28,home-assistant/core,Home Assistant,91800,39096,3421
+2026-10-28,immich-app/immich,Immich,117527,7389,686
+2026-10-28,jellyfin/jellyfin,Jellyfin,58755,5733,836
+2026-10-28,jesseduffield/lazygit,lazygit,83483,3178,1059
+2026-10-28,junegunn/fzf,fzf,83854,4739,336
+2026-10-28,langchain-ai/langchain,LangChain,148640,24957,690
+2026-10-28,louislam/uptime-kuma,Uptime Kuma,93037,8633,852
+2026-10-28,microsoft/autogen,AutoGen,61612,9326,1123
+2026-10-28,microsoft/playwright-python,Playwright,15072,1250,2
+2026-10-28,modelcontextprotocol/python-sdk,MCP Python SDK,24698,4087,377
+2026-10-28,modelcontextprotocol/servers,MCP reference servers,91642,11879,140
+2026-10-28,n8n-io/n8n,n8n,208914,61287,1193
+2026-10-28,nextcloud/server,Nextcloud,37334,5324,3832
+2026-10-28,ollama/ollama,Ollama,185140,18701,4478
+2026-10-28,openai/openai-python,OpenAI SDK,31989,7310,96
+2026-10-28,pandas-dev/pandas,pandas,50337,20650,2091
+2026-10-28,pdm-project/pdm,PDM,8659,508,49
+2026-10-28,pola-rs/polars,Polars,40226,3207,2963
+2026-10-28,portainer/portainer,Portainer,38737,2929,775
+2026-10-28,psf/black,Black,42083,2950,260
+2026-10-28,psf/requests,Requests,54595,12105,244
+2026-10-28,pydantic/pydantic-ai,Pydantic AI,20931,3051,1595
+2026-10-28,pypa/pip,pip,10303,3433,980
+2026-10-28,python-poetry/poetry,Poetry,34322,2549,622
+2026-10-28,run-llama/llama_index,LlamaIndex,52715,8456,1094
+2026-10-28,scrapy/scrapy,Scrapy,65102,12066,181
+2026-10-28,sharkdp/bat,bat,60995,3678,575
+2026-10-28,tailscale/tailscale,Tailscale,38249,3376,4811
+2026-10-28,traefik/traefik,Traefik,65400,6284,976
+2026-10-28,unclecode/crawl4ai,Crawl4AI,86465,9002,289
+2026-10-28,vllm-project/vllm,vLLM,95786,24112,9635

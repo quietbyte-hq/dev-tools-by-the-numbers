@@ -35,6 +35,9 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-28 · Short: [Scrapy vs Crawl4AI vs Crawlee vs Scrapling: real PyPI download data (Oct 2026)](https://youtube.com/shorts/Xe_fnq88rEo)
+- 2026-10-28 · Short: [pip downloads +33% in a week](https://youtube.com/shorts/BlObtp-lVc4)
+- 2026-10-28 · Short: [Reflection: Beam 1.0 501B A23B: $0.25 per million input tokens](https://youtube.com/shorts/eXoYJMDb8UQ)
 - 2026-10-27 · Short: [NVIDIA: Nemotron 3.5 Super VL: $0.15 per million input tokens](https://youtube.com/shorts/-gSPa4iKSVg)
 - 2026-10-27 · Video: [Who's gaining ground: Scrapy vs Crawl4AI vs Crawlee vs Scrapling (Oct 2026)](https://youtu.be/7uW41hTfMCY)
 - 2026-10-27 · Short: [Scrapy downloads +27% in a week](https://youtube.com/shorts/3ZnEvSi6o7Y)
