@@ -1,5 +1,74 @@
 [
  {
+  "key": "actor:workday-h1b:2026-11",
+  "month": "2026-11",
+  "finding": "Big H-1B sponsors, 568 job ads: 77% say nothing about visas",
+  "tool": "https://apify.com/quietbyte/workday-jobs-visa",
+  "source": "568 Workday job ads, collected 2026-11-02",
+  "facts": {
+   "ads": 568,
+   "employers": 31,
+   "silent": 440,
+   "refuse": 128,
+   "offer": 0,
+   "mixed": 0,
+   "headline": 77,
+   "pct": [
+    77,
+    23,
+    0,
+    0
+   ],
+   "visa": "H-1B",
+   "day": "2026-11-02",
+   "month": "2026-11"
+  }
+ },
+ {
+  "key": "actor:remote-us-only:2026-11",
+  "month": "2026-11",
+  "finding": "'Remote' jobs, 686 checked: 241 are US-only",
+  "tool": "https://apify.com/quietbyte/remote-jobs-by-country",
+  "source": "686 remote jobs from Himalayas, Jobicy, Remote OK and We Work Remotely, collected 2026-11-02",
+  "facts": {
+   "jobs": 686,
+   "us_only": 241,
+   "wider": 375,
+   "unclear": 70,
+   "headline": 35,
+   "pct": [
+    35,
+    55,
+    10
+   ],
+   "day": "2026-11-02",
+   "month": "2026-11"
+  }
+ },
+ {
+  "key": "actor:reed-uk-visa:2026-11",
+  "month": "2026-11",
+  "finding": "97 of 100 UK job ads that mention visa sponsorship refuse it",
+  "tool": "https://apify.com/quietbyte/reed-jobs-uk-visa",
+  "source": "100 direct-employer ads on Reed and the UK sponsor register, 2026-11-02",
+  "facts": {
+   "ads": 100,
+   "employers": 17,
+   "refuse": 97,
+   "offer": 1,
+   "mixed": 2,
+   "silent": 0,
+   "licensed": 60,
+   "headline": 97,
+   "pct": [
+    97,
+    60
+   ],
+   "day": "2026-11-02",
+   "month": "2026-11"
+  }
+ },
+ {
   "key": "actor:workday-h1b:2026-10",
   "month": "2026-10",
   "finding": "79% of job ads at big H-1B sponsors never mention visas",

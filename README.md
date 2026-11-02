@@ -2,25 +2,25 @@
 
 Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI & dev tools by the numbers). Every number in our videos comes from these files.
 
-## PyPI downloads, week ending 2026-10-25
+## PyPI downloads, week ending 2026-11-01
 
 | Tool | Package | Downloads | vs previous week |
 |---|---|--:|--:|
-| Requests | `requests` | 328,188,328 | +4% |
-| HTTPX | `httpx` | 178,471,438 | +6% |
-| pandas | `pandas` | 149,934,696 | +3% |
-| pip | `pip` | 135,806,037 | +31% |
-| Ruff | `ruff` | 94,109,539 | +7% |
-| OpenAI SDK | `openai` | 83,852,628 | +3% |
-| Beautiful Soup | `beautifulsoup4` | 72,539,415 | +4% |
-| MCP Python SDK | `mcp` | 70,182,218 | +8% |
-| Hugging Face Hub | `huggingface-hub` | 63,049,972 | +1% |
-| Anthropic SDK | `anthropic` | 44,777,051 | +6% |
-| uv | `uv` | 37,642,696 | +9% |
-| LangChain | `langchain` | 37,534,014 | +1% |
-| Playwright | `playwright` | 29,446,601 | +5% |
-| Black | `black` | 28,052,209 | +2% |
-| Transformers | `transformers` | 25,738,854 | +4% |
+| Requests | `requests` | 356,949,658 | +9% |
+| HTTPX | `httpx` | 181,641,237 | +2% |
+| pandas | `pandas` | 168,769,336 | +13% |
+| pip | `pip` | 136,299,352 | +0% |
+| Ruff | `ruff` | 96,588,704 | +3% |
+| OpenAI SDK | `openai` | 86,494,996 | +3% |
+| Beautiful Soup | `beautifulsoup4` | 74,484,816 | +3% |
+| MCP Python SDK | `mcp` | 71,968,839 | +3% |
+| Hugging Face Hub | `huggingface-hub` | 68,286,085 | +8% |
+| Anthropic SDK | `anthropic` | 47,482,689 | +6% |
+| uv | `uv` | 37,503,463 | -0% |
+| LangChain | `langchain` | 36,815,315 | -2% |
+| Playwright | `playwright` | 30,493,418 | +4% |
+| Transformers | `transformers` | 29,221,621 | +14% |
+| Black | `black` | 27,848,764 | -1% |
 
 ## Findings from our scrapers
 
@@ -28,6 +28,9 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 | Month | Finding | Tool |
 |---|---|---|
+| 2026-11 | Big H-1B sponsors, 568 job ads: 77% say nothing about visas | [workday-jobs-visa](https://apify.com/quietbyte/workday-jobs-visa) |
+| 2026-11 | 'Remote' jobs, 686 checked: 241 are US-only | [remote-jobs-by-country](https://apify.com/quietbyte/remote-jobs-by-country) |
+| 2026-11 | 97 of 100 UK job ads that mention visa sponsorship refuse it | [reed-jobs-uk-visa](https://apify.com/quietbyte/reed-jobs-uk-visa) |
 | 2026-10 | 79% of job ads at big H-1B sponsors never mention visas | [workday-jobs-visa](https://apify.com/quietbyte/workday-jobs-visa) |
 | 2026-10 | 59% of these 'remote' jobs are open to US residents only | [remote-jobs-by-country](https://apify.com/quietbyte/remote-jobs-by-country) |
 | 2026-10 | 29 of 30 UK job ads that mention visa sponsorship refuse it | [reed-jobs-uk-visa](https://apify.com/quietbyte/reed-jobs-uk-visa) |
@@ -35,6 +38,7 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-10-29 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/PuFsh5TZsWA)
 - 2026-10-28 · Short: [Scrapy vs Crawl4AI vs Crawlee vs Scrapling: real PyPI download data (Oct 2026)](https://youtube.com/shorts/Xe_fnq88rEo)
 - 2026-10-28 · Short: [pip downloads +33% in a week](https://youtube.com/shorts/BlObtp-lVc4)
 - 2026-10-28 · Short: [Reflection: Beam 1.0 501B A23B: $0.25 per million input tokens](https://youtube.com/shorts/eXoYJMDb8UQ)
