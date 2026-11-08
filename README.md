@@ -38,6 +38,10 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
+- 2026-11-04 · Short: [#3 trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://youtube.com/shorts/1svODzPijIo)
+- 2026-11-04 · Short: [#1 trending on Hugging Face: LiquidAI/LFM3-1.7B](https://youtube.com/shorts/EftC357SIZo)
+- 2026-11-03 · Short: [#2 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/KRshF9F5OPk)
 - 2026-10-29 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/PuFsh5TZsWA)
 - 2026-10-28 · Short: [Scrapy vs Crawl4AI vs Crawlee vs Scrapling: real PyPI download data (Oct 2026)](https://youtube.com/shorts/Xe_fnq88rEo)
 - 2026-10-28 · Short: [pip downloads +33% in a week](https://youtube.com/shorts/BlObtp-lVc4)
@@ -64,9 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
 - 2026-10-17 · Short: [79% of job ads at big H-1B sponsors never mention visas](https://youtube.com/shorts/prOnzR997Mk)
 - 2026-10-16 · Short: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtube.com/shorts/vhWIHusCwo8)
-- 2026-10-15 · Short: [Crawlee downloads +26% in a week](https://youtube.com/shorts/Ttw_WLyqzrw)
-- 2026-10-15 · Video: [LangChain vs Pydantic AI vs LlamaIndex vs CrewAI: real PyPI download data (Oct 2026)](https://youtu.be/gVIjyLgEE_w)
-- 2026-10-14 · Short: [#1 trending on Hugging Face: google/embeddinggemma-2](https://youtube.com/shorts/HDwa4fuYvA4)
 
 ## Files
 
