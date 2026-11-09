@@ -1,11 +1,21 @@
 week_ending,package,tool,downloads
 2026-11-01,@anthropic-ai/claude-code,Claude Code,12886034
+2026-11-08,@anthropic-ai/claude-code,Claude Code,14193546
 2026-11-01,@anthropic-ai/sdk,Anthropic SDK,63610753
+2026-11-08,@anthropic-ai/sdk,Anthropic SDK,67664483
 2026-11-01,@google/gemini-cli,Gemini CLI,445269
+2026-11-08,@google/gemini-cli,Gemini CLI,476704
 2026-11-01,@modelcontextprotocol/sdk,MCP TypeScript SDK,87290969
+2026-11-08,@modelcontextprotocol/sdk,MCP TypeScript SDK,88208812
 2026-11-01,@openai/codex,Codex CLI,27839068
+2026-11-08,@openai/codex,Codex CLI,25908100
 2026-11-01,ai,Vercel AI SDK,42581470
+2026-11-08,ai,Vercel AI SDK,45288064
 2026-11-01,crawlee,Crawlee,186349
+2026-11-08,crawlee,Crawlee,170143
 2026-11-01,openai,OpenAI SDK,55441063
+2026-11-08,openai,OpenAI SDK,57338964
 2026-11-01,playwright,Playwright,156894395
+2026-11-08,playwright,Playwright,166770617
 2026-11-01,puppeteer,Puppeteer,15563365
+2026-11-08,puppeteer,Puppeteer,15279663
