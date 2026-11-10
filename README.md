@@ -38,6 +38,7 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-10 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/KZk1DfqyP5M)
 - 2026-11-09 · Short: [LiquidAI: LFM3-1.7B: $0.08 per million input tokens](https://youtube.com/shorts/VD7cnnfXdWg)
 - 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
 - 2026-11-04 · Short: [#3 trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://youtube.com/shorts/1svODzPijIo)
@@ -67,7 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-20 · Short: [Free rebuilds of 7 Adobe apps: 128,309 GitHub stars in 17 days](https://youtube.com/shorts/aDBxRyiYAm0)
 - 2026-10-19 · Short: [open_scion: 1,029 GitHub stars in 1 day](https://youtube.com/shorts/KS7i2OmPJU0)
 - 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
-- 2026-10-17 · Short: [79% of job ads at big H-1B sponsors never mention visas](https://youtube.com/shorts/prOnzR997Mk)
 
 ## Files
 
