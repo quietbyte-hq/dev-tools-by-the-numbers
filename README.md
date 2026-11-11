@@ -38,6 +38,7 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-11 · Short: [pip downloads +29% in a week](https://youtube.com/shorts/ErQfUWcZ6OI)
 - 2026-11-10 · Short: [uv downloads +35% in a week](https://youtube.com/shorts/D4e8eMz40Y4)
 - 2026-11-10 · Short: [Google: Gemini Omni 1.2 Flash: $1.5 per million input tokens](https://youtube.com/shorts/SS8rGI3K4KM)
 - 2026-11-10 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/KZk1DfqyP5M)
@@ -67,7 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-21 · Short: [Anthropic: Claude Haiku 5.5: $0.1 per million input tokens](https://youtube.com/shorts/Hvgo7wZMc80)
 - 2026-10-20 · Short: [jev-ultrafast: 22,965 GitHub stars in 29 days](https://youtube.com/shorts/77ZjSUZdGK0)
 - 2026-10-20 · Video: [Is pip still the default? PyPI numbers vs uv, Poetry, PDM](https://youtu.be/rw4fZZTtPMc)
-- 2026-10-20 · Short: [Free rebuilds of 7 Adobe apps: 128,309 GitHub stars in 17 days](https://youtube.com/shorts/aDBxRyiYAm0)
 
 ## Files
 
