@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-10 · Short: [uv downloads +35% in a week](https://youtube.com/shorts/D4e8eMz40Y4)
+- 2026-11-10 · Short: [Google: Gemini Omni 1.2 Flash: $1.5 per million input tokens](https://youtube.com/shorts/SS8rGI3K4KM)
 - 2026-11-10 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/KZk1DfqyP5M)
 - 2026-11-09 · Short: [LiquidAI: LFM3-1.7B: $0.08 per million input tokens](https://youtube.com/shorts/VD7cnnfXdWg)
 - 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-20 · Short: [jev-ultrafast: 22,965 GitHub stars in 29 days](https://youtube.com/shorts/77ZjSUZdGK0)
 - 2026-10-20 · Video: [Is pip still the default? PyPI numbers vs uv, Poetry, PDM](https://youtu.be/rw4fZZTtPMc)
 - 2026-10-20 · Short: [Free rebuilds of 7 Adobe apps: 128,309 GitHub stars in 17 days](https://youtube.com/shorts/aDBxRyiYAm0)
-- 2026-10-19 · Short: [open_scion: 1,029 GitHub stars in 1 day](https://youtube.com/shorts/KS7i2OmPJU0)
-- 2026-10-18 · Video: [AI & dev tools by the numbers: 2026-W42](https://youtu.be/Eyn3ca1tsPI)
 
 ## Files
 
