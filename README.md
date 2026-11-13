@@ -38,6 +38,9 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-13 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/V0NXxyshQMU)
+- 2026-11-12 · Short: [#5 trending on Hugging Face: Lightricks/LTX-2.5](https://youtube.com/shorts/EOMDAb4b2o4)
+- 2026-11-12 · Short: [Google: Gemini Omni 1.1 Flash: $1.5 per million input tokens](https://youtube.com/shorts/tO9nkB5Wdmc)
 - 2026-11-11 · Short: [pip downloads +29% in a week](https://youtube.com/shorts/ErQfUWcZ6OI)
 - 2026-11-10 · Short: [uv downloads +35% in a week](https://youtube.com/shorts/D4e8eMz40Y4)
 - 2026-11-10 · Short: [Google: Gemini Omni 1.2 Flash: $1.5 per million input tokens](https://youtube.com/shorts/SS8rGI3K4KM)
@@ -65,9 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-22 · Video: [Who's gaining ground: Playwright vs Selenium (Oct 2026)](https://youtu.be/YbhEN-qBgo0)
 - 2026-10-21 · Short: [pip vs uv vs Poetry vs PDM: real PyPI download data (Oct 2026)](https://youtube.com/shorts/GpBevHVdJiE)
 - 2026-10-21 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/N1p9AcaNlV4)
-- 2026-10-21 · Short: [Anthropic: Claude Haiku 5.5: $0.1 per million input tokens](https://youtube.com/shorts/Hvgo7wZMc80)
-- 2026-10-20 · Short: [jev-ultrafast: 22,965 GitHub stars in 29 days](https://youtube.com/shorts/77ZjSUZdGK0)
-- 2026-10-20 · Video: [Is pip still the default? PyPI numbers vs uv, Poetry, PDM](https://youtu.be/rw4fZZTtPMc)
 
 ## Files
 
