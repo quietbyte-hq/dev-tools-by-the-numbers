@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-13 · Short: [Scrapling downloads +47% in a week](https://youtube.com/shorts/PGBvLy8Q2hc)
+- 2026-11-13 · Short: [Anthropic: Claude Fable 5.2: $8 per million input tokens](https://youtube.com/shorts/MetcSoiDLw4)
 - 2026-11-13 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/V0NXxyshQMU)
 - 2026-11-12 · Short: [#5 trending on Hugging Face: Lightricks/LTX-2.5](https://youtube.com/shorts/EOMDAb4b2o4)
 - 2026-11-12 · Short: [Google: Gemini Omni 1.1 Flash: $1.5 per million input tokens](https://youtube.com/shorts/tO9nkB5Wdmc)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-23 · Short: [Crawlee downloads +29% in a week](https://youtube.com/shorts/fVOv7zbbDmU)
 - 2026-10-22 · Short: [Google: Nano Banana 2.1: $1.5 per million input tokens](https://youtube.com/shorts/ZfZyGJwfmJQ)
 - 2026-10-22 · Video: [Who's gaining ground: Playwright vs Selenium (Oct 2026)](https://youtu.be/YbhEN-qBgo0)
-- 2026-10-21 · Short: [pip vs uv vs Poetry vs PDM: real PyPI download data (Oct 2026)](https://youtube.com/shorts/GpBevHVdJiE)
-- 2026-10-21 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/N1p9AcaNlV4)
 
 ## Files
 
