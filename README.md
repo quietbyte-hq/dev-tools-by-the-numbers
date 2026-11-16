@@ -38,6 +38,11 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-16 · Short: [Nex AGI: Nex-N2.6: $0.12 per million input tokens](https://youtube.com/shorts/LxnZbbMSUnE)
+- 2026-11-15 · Short: [uv downloads +35% in a week](https://youtube.com/shorts/0TrE1SN0VnE)
+- 2026-11-15 · Video: [AI & dev tools by the numbers: 2026-W46](https://youtu.be/9-iosUqVxfM)
+- 2026-11-15 · Short: [Big H-1B sponsors, 568 job ads: 77% say nothing about visas](https://youtube.com/shorts/WU3ZGrFPtVg)
+- 2026-11-14 · Short: [Meta: Muse Ember: $0.1 per million input tokens](https://youtube.com/shorts/PPzhiNntV6g)
 - 2026-11-13 · Short: [Scrapling downloads +47% in a week](https://youtube.com/shorts/PGBvLy8Q2hc)
 - 2026-11-13 · Short: [Anthropic: Claude Fable 5.2: $8 per million input tokens](https://youtube.com/shorts/MetcSoiDLw4)
 - 2026-11-13 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/V0NXxyshQMU)
@@ -63,11 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-25 · Short: [LiquidAI: LFM2.5-24B-A2B: $0.05 per million input tokens](https://youtube.com/shorts/aa9tbhozlHM)
 - 2026-10-25 · Video: [AI & dev tools by the numbers: 2026-W43](https://youtu.be/nW6dSG7QUQE)
 - 2026-10-24 · Short: [59% of these 'remote' jobs are open to US residents only](https://youtube.com/shorts/SBygL37pp_E)
-- 2026-10-24 · Short: [#2 trending on Hugging Face: black-forest-labs/flux-3-image-klein-comfy](https://youtube.com/shorts/ztcOj_msJZ4)
-- 2026-10-23 · Short: [AI agents that reverse-engineer games: 8,089 GitHub stars in 17 days](https://youtube.com/shorts/LWBFbDGK5Tc)
-- 2026-10-23 · Short: [Crawlee downloads +29% in a week](https://youtube.com/shorts/fVOv7zbbDmU)
-- 2026-10-22 · Short: [Google: Nano Banana 2.1: $1.5 per million input tokens](https://youtube.com/shorts/ZfZyGJwfmJQ)
-- 2026-10-22 · Video: [Who's gaining ground: Playwright vs Selenium (Oct 2026)](https://youtu.be/YbhEN-qBgo0)
 
 ## Files
 
