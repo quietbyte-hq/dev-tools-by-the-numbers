@@ -2,25 +2,25 @@
 
 Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI & dev tools by the numbers). Every number in our videos comes from these files.
 
-## PyPI downloads, week ending 2026-11-08
+## PyPI downloads, week ending 2026-11-15
 
 | Tool | Package | Downloads | vs previous week |
 |---|---|--:|--:|
-| Requests | `requests` | 357,450,665 | +0% |
-| HTTPX | `httpx` | 194,637,943 | +7% |
-| pandas | `pandas` | 177,568,312 | +5% |
-| pip | `pip` | 154,004,094 | +13% |
-| Ruff | `ruff` | 100,218,396 | +4% |
-| OpenAI SDK | `openai` | 92,006,831 | +6% |
-| MCP Python SDK | `mcp` | 79,507,189 | +10% |
-| Beautiful Soup | `beautifulsoup4` | 76,003,323 | +2% |
-| Hugging Face Hub | `huggingface-hub` | 69,521,123 | +2% |
-| Anthropic SDK | `anthropic` | 50,413,636 | +6% |
-| uv | `uv` | 48,004,195 | +28% |
-| LangChain | `langchain` | 35,271,689 | -4% |
-| Playwright | `playwright` | 30,704,613 | +1% |
-| Transformers | `transformers` | 28,673,463 | -2% |
-| Black | `black` | 26,676,781 | -4% |
+| Requests | `requests` | 342,580,331 | -4% |
+| HTTPX | `httpx` | 192,585,518 | -1% |
+| pandas | `pandas` | 159,810,137 | -10% |
+| pip | `pip` | 148,140,600 | -4% |
+| Ruff | `ruff` | 101,912,872 | +2% |
+| OpenAI SDK | `openai` | 88,891,531 | -3% |
+| MCP Python SDK | `mcp` | 78,912,052 | -1% |
+| Beautiful Soup | `beautifulsoup4` | 73,558,981 | -3% |
+| Hugging Face Hub | `huggingface-hub` | 69,585,258 | +0% |
+| uv | `uv` | 49,854,059 | +4% |
+| Anthropic SDK | `anthropic` | 49,439,655 | -2% |
+| LangChain | `langchain` | 35,953,584 | +2% |
+| Playwright | `playwright` | 32,777,539 | +7% |
+| Transformers | `transformers` | 27,730,890 | -3% |
+| Black | `black` | 25,297,140 | -5% |
 
 ## Findings from our scrapers
 
