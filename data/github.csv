@@ -1011,49 +1011,49 @@ day,repo,tool,stars,forks,open_issues
 2026-11-16,traefik/traefik,Traefik,65563,6315,987
 2026-11-16,unclecode/crawl4ai,Crawl4AI,87423,9124,351
 2026-11-16,vllm-project/vllm,vLLM,97017,24885,10426
-2026-11-17,BerriAI/litellm,LiteLLM,63373,13335,5221
-2026-11-17,BurntSushi/ripgrep,ripgrep,69996,3541,228
-2026-11-17,D4Vinci/Scrapling,Scrapling,103691,10816,21
-2026-11-17,ajeetdsouza/zoxide,zoxide,40613,954,160
-2026-11-17,anthropics/anthropic-sdk-python,Anthropic SDK,4079,913,234
-2026-11-17,apify/crawlee-python,Crawlee,9677,833,92
-2026-11-17,astral-sh/ruff,Ruff,51257,2724,2300
-2026-11-17,astral-sh/uv,uv,92041,3860,3085
-2026-11-17,atuinsh/atuin,Atuin,32496,1047,459
-2026-11-17,caddyserver/caddy,Caddy,79110,5274,279
-2026-11-17,coollabsio/coolify,Coolify,66148,6003,147
-2026-11-17,crewAIInc/crewAI,CrewAI,61002,9211,1264
-2026-11-17,encode/httpx,HTTPX,15798,1960,140
-2026-11-17,firecrawl/firecrawl,Firecrawl,202400,10605,808
-2026-11-17,ggml-org/llama.cpp,llama.cpp,135380,25663,2625
-2026-11-17,home-assistant/core,Home Assistant,92306,39351,3918
-2026-11-17,immich-app/immich,Immich,119396,7634,720
-2026-11-17,jellyfin/jellyfin,Jellyfin,59448,5826,929
-2026-11-17,jesseduffield/lazygit,lazygit,83930,3264,1071
-2026-11-17,junegunn/fzf,fzf,84231,3494,334
-2026-11-17,langchain-ai/langchain,LangChain,149728,25146,753
-2026-11-17,louislam/uptime-kuma,Uptime Kuma,94508,8858,851
-2026-11-17,microsoft/autogen,AutoGen,61877,9412,1182
-2026-11-17,microsoft/playwright-python,Playwright,15115,1258,1
-2026-11-17,modelcontextprotocol/python-sdk,MCP Python SDK,24874,4136,416
-2026-11-17,modelcontextprotocol/servers,MCP reference servers,92058,11970,23
-2026-11-17,n8n-io/n8n,n8n,210684,61531,1283
-2026-11-17,nextcloud/server,Nextcloud,37539,5362,3939
-2026-11-17,ollama/ollama,Ollama,187286,19115,4664
-2026-11-17,openai/openai-python,OpenAI SDK,32180,5885,97
-2026-11-17,pandas-dev/pandas,pandas,50544,20746,1854
-2026-11-17,pdm-project/pdm,PDM,8665,527,52
-2026-11-17,pola-rs/polars,Polars,40356,3242,2958
-2026-11-17,portainer/portainer,Portainer,38835,2940,777
-2026-11-17,psf/black,Black,42193,3052,249
-2026-11-17,psf/requests,Requests,54715,10868,256
-2026-11-17,pydantic/pydantic-ai,Pydantic AI,21247,3199,1890
-2026-11-17,pypa/pip,pip,10319,3437,956
-2026-11-17,python-poetry/poetry,Poetry,34322,2657,614
-2026-11-17,run-llama/llama_index,LlamaIndex,52925,8572,1461
-2026-11-17,scrapy/scrapy,Scrapy,65437,12154,176
-2026-11-17,sharkdp/bat,bat,61289,2381,566
-2026-11-17,tailscale/tailscale,Tailscale,39202,3496,4749
-2026-11-17,traefik/traefik,Traefik,65569,6317,988
-2026-11-17,unclecode/crawl4ai,Crawl4AI,87457,9123,347
-2026-11-17,vllm-project/vllm,vLLM,97064,24909,10484
+2026-11-17,BerriAI/litellm,LiteLLM,63400,13344,5218
+2026-11-17,BurntSushi/ripgrep,ripgrep,70003,3558,229
+2026-11-17,D4Vinci/Scrapling,Scrapling,103780,10822,21
+2026-11-17,ajeetdsouza/zoxide,zoxide,40617,954,160
+2026-11-17,anthropics/anthropic-sdk-python,Anthropic SDK,4080,913,234
+2026-11-17,apify/crawlee-python,Crawlee,9677,833,88
+2026-11-17,astral-sh/ruff,Ruff,51259,2733,2298
+2026-11-17,astral-sh/uv,uv,92052,3877,3085
+2026-11-17,atuinsh/atuin,Atuin,32499,1047,461
+2026-11-17,caddyserver/caddy,Caddy,79114,5275,280
+2026-11-17,coollabsio/coolify,Coolify,66165,6004,148
+2026-11-17,crewAIInc/crewAI,CrewAI,61017,9210,1264
+2026-11-17,encode/httpx,HTTPX,15799,1980,141
+2026-11-17,firecrawl/firecrawl,Firecrawl,202458,10605,811
+2026-11-17,ggml-org/llama.cpp,llama.cpp,135414,25675,2620
+2026-11-17,home-assistant/core,Home Assistant,92309,39351,3912
+2026-11-17,immich-app/immich,Immich,119420,7636,736
+2026-11-17,jellyfin/jellyfin,Jellyfin,59453,5827,929
+2026-11-17,jesseduffield/lazygit,lazygit,83933,3264,1072
+2026-11-17,junegunn/fzf,fzf,84234,3510,334
+2026-11-17,langchain-ai/langchain,LangChain,149758,25149,757
+2026-11-17,louislam/uptime-kuma,Uptime Kuma,94522,8860,852
+2026-11-17,microsoft/autogen,AutoGen,61883,9411,1182
+2026-11-17,microsoft/playwright-python,Playwright,15116,1258,1
+2026-11-17,modelcontextprotocol/python-sdk,MCP Python SDK,24876,4135,417
+2026-11-17,modelcontextprotocol/servers,MCP reference servers,92062,11971,23
+2026-11-17,n8n-io/n8n,n8n,210708,61535,1279
+2026-11-17,nextcloud/server,Nextcloud,37541,5362,3944
+2026-11-17,ollama/ollama,Ollama,187328,19118,4666
+2026-11-17,openai/openai-python,OpenAI SDK,32180,5884,97
+2026-11-17,pandas-dev/pandas,pandas,50548,20743,1856
+2026-11-17,pdm-project/pdm,PDM,8664,528,54
+2026-11-17,pola-rs/polars,Polars,40362,3242,2960
+2026-11-17,portainer/portainer,Portainer,38834,2941,778
+2026-11-17,psf/black,Black,42192,3061,252
+2026-11-17,psf/requests,Requests,54715,10879,256
+2026-11-17,pydantic/pydantic-ai,Pydantic AI,21252,3199,1891
+2026-11-17,pypa/pip,pip,10319,3437,958
+2026-11-17,python-poetry/poetry,Poetry,34322,2665,614
+2026-11-17,run-llama/llama_index,LlamaIndex,52925,8574,1465
+2026-11-17,scrapy/scrapy,Scrapy,65440,12155,176
+2026-11-17,sharkdp/bat,bat,61290,2392,567
+2026-11-17,tailscale/tailscale,Tailscale,39218,3500,4750
+2026-11-17,traefik/traefik,Traefik,65571,6317,989
+2026-11-17,unclecode/crawl4ai,Crawl4AI,87464,9123,348
+2026-11-17,vllm-project/vllm,vLLM,97090,24924,10501
