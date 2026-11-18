@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-17 · Short: [Baidu: ERNIE-Light-DT-1.0: $1.13 per million input tokens](https://youtube.com/shorts/y1_Asqujnk0)
+- 2026-11-17 · Short: [Puppeteer downloads +25% in a week](https://youtube.com/shorts/-UTtHUf89NM)
 - 2026-11-17 · Short: [Playwright downloads +32% in a week](https://youtube.com/shorts/YeMKz7c7-ec)
 - 2026-11-16 · Short: [#5 trending on Hugging Face: Qwen/Qwen3.8-27B](https://youtube.com/shorts/ZaP4sxbFQ4c)
 - 2026-11-16 · Short: [Nex AGI: Nex-N2.6: $0.12 per million input tokens](https://youtube.com/shorts/LxnZbbMSUnE)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-27 · Short: [NVIDIA: Nemotron 3.5 Super VL: $0.15 per million input tokens](https://youtube.com/shorts/-gSPa4iKSVg)
 - 2026-10-27 · Video: [Who's gaining ground: Scrapy vs Crawl4AI vs Crawlee vs Scrapling (Oct 2026)](https://youtu.be/7uW41hTfMCY)
 - 2026-10-27 · Short: [Scrapy downloads +27% in a week](https://youtube.com/shorts/3ZnEvSi6o7Y)
-- 2026-10-26 · Short: [#4 trending on Hugging Face: black-forest-labs/flux-3-image-klein](https://youtube.com/shorts/cXkUS2aIALY)
-- 2026-10-25 · Short: [LiquidAI: LFM2.5-24B-A2B: $0.05 per million input tokens](https://youtube.com/shorts/aa9tbhozlHM)
 
 ## Files
 
