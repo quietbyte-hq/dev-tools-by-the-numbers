@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-19 · Short: [Google: Gemini 4 Carbon: $2 per million input tokens](https://youtube.com/shorts/KHhoqAiBij0)
+- 2026-11-18 · Short: [Google: Gemini 4 Hydrogen: $1.5 per million input tokens](https://youtube.com/shorts/iIVwDJQdxvY)
 - 2026-11-17 · Short: [Baidu: ERNIE-Light-DT-1.0: $1.13 per million input tokens](https://youtube.com/shorts/y1_Asqujnk0)
 - 2026-11-17 · Short: [Puppeteer downloads +25% in a week](https://youtube.com/shorts/-UTtHUf89NM)
 - 2026-11-17 · Short: [Playwright downloads +32% in a week](https://youtube.com/shorts/YeMKz7c7-ec)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-10-28 · Short: [pip downloads +33% in a week](https://youtube.com/shorts/BlObtp-lVc4)
 - 2026-10-28 · Short: [Reflection: Beam 1.0 501B A23B: $0.25 per million input tokens](https://youtube.com/shorts/eXoYJMDb8UQ)
 - 2026-10-27 · Short: [NVIDIA: Nemotron 3.5 Super VL: $0.15 per million input tokens](https://youtube.com/shorts/-gSPa4iKSVg)
-- 2026-10-27 · Video: [Who's gaining ground: Scrapy vs Crawl4AI vs Crawlee vs Scrapling (Oct 2026)](https://youtu.be/7uW41hTfMCY)
-- 2026-10-27 · Short: [Scrapy downloads +27% in a week](https://youtube.com/shorts/3ZnEvSi6o7Y)
 
 ## Files
 
