@@ -38,6 +38,10 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-20 · Short: [kiri: 10,900 GitHub stars in 17 days](https://youtube.com/shorts/ilYdxwNl-lQ)
+- 2026-11-20 · Short: [rust-anything: 3,726 GitHub stars in 3 days](https://youtube.com/shorts/rpQHK2hC4Es)
+- 2026-11-20 · Short: [Thinking Machines: Inkling 2 Small: $0.3 per million input tokens](https://youtube.com/shorts/m7qQGs_glJM)
+- 2026-11-19 · Short: [Claude Code downloads +56% in a week](https://youtube.com/shorts/z-fz-oXGJKA)
 - 2026-11-19 · Short: [Google: Gemini 4 Carbon: $2 per million input tokens](https://youtube.com/shorts/KHhoqAiBij0)
 - 2026-11-18 · Short: [Google: Gemini 4 Hydrogen: $1.5 per million input tokens](https://youtube.com/shorts/iIVwDJQdxvY)
 - 2026-11-17 · Short: [Baidu: ERNIE-Light-DT-1.0: $1.13 per million input tokens](https://youtube.com/shorts/y1_Asqujnk0)
@@ -64,10 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-11-04 · Short: [#1 trending on Hugging Face: LiquidAI/LFM3-1.7B](https://youtube.com/shorts/EftC357SIZo)
 - 2026-11-03 · Short: [#2 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/KRshF9F5OPk)
 - 2026-10-29 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/PuFsh5TZsWA)
-- 2026-10-28 · Short: [Scrapy vs Crawl4AI vs Crawlee vs Scrapling: real PyPI download data (Oct 2026)](https://youtube.com/shorts/Xe_fnq88rEo)
-- 2026-10-28 · Short: [pip downloads +33% in a week](https://youtube.com/shorts/BlObtp-lVc4)
-- 2026-10-28 · Short: [Reflection: Beam 1.0 501B A23B: $0.25 per million input tokens](https://youtube.com/shorts/eXoYJMDb8UQ)
-- 2026-10-27 · Short: [NVIDIA: Nemotron 3.5 Super VL: $0.15 per million input tokens](https://youtube.com/shorts/-gSPa4iKSVg)
 
 ## Files
 
