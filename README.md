@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-21 · Short: [dsh-Go: 27,460 GitHub stars in 25 days](https://youtube.com/shorts/ILWxoigKusA)
+- 2026-11-21 · Short: [gputaskman: 3,447 GitHub stars in 14 days](https://youtube.com/shorts/-U7K7PDZc6s)
 - 2026-11-20 · Short: [kiri: 10,900 GitHub stars in 17 days](https://youtube.com/shorts/ilYdxwNl-lQ)
 - 2026-11-20 · Short: [rust-anything: 3,726 GitHub stars in 3 days](https://youtube.com/shorts/rpQHK2hC4Es)
 - 2026-11-20 · Short: [Thinking Machines: Inkling 2 Small: $0.3 per million input tokens](https://youtube.com/shorts/m7qQGs_glJM)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
 - 2026-11-04 · Short: [#3 trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://youtube.com/shorts/1svODzPijIo)
 - 2026-11-04 · Short: [#1 trending on Hugging Face: LiquidAI/LFM3-1.7B](https://youtube.com/shorts/EftC357SIZo)
-- 2026-11-03 · Short: [#2 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/KRshF9F5OPk)
-- 2026-10-29 · Short: [#1 trending on Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017](https://youtube.com/shorts/PuFsh5TZsWA)
 
 ## Files
 
