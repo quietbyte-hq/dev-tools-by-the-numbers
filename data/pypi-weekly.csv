@@ -10,6 +10,7 @@ week_ending,package,tool,downloads
 2026-11-01,anthropic,Anthropic SDK,47482689
 2026-11-08,anthropic,Anthropic SDK,50413636
 2026-11-15,anthropic,Anthropic SDK,49439655
+2026-11-22,anthropic,Anthropic SDK,50961455
 2026-09-06,beautifulsoup4,Beautiful Soup,70805212
 2026-09-13,beautifulsoup4,Beautiful Soup,67711720
 2026-09-20,beautifulsoup4,Beautiful Soup,67468346
@@ -21,6 +22,7 @@ week_ending,package,tool,downloads
 2026-11-01,beautifulsoup4,Beautiful Soup,74484816
 2026-11-08,beautifulsoup4,Beautiful Soup,76003323
 2026-11-15,beautifulsoup4,Beautiful Soup,73558981
+2026-11-22,beautifulsoup4,Beautiful Soup,75087272
 2026-09-06,black,Black,25708503
 2026-09-13,black,Black,26137982
 2026-09-20,black,Black,26242635
@@ -32,6 +34,7 @@ week_ending,package,tool,downloads
 2026-11-01,black,Black,27848764
 2026-11-08,black,Black,26676781
 2026-11-15,black,Black,25297140
+2026-11-22,black,Black,25452513
 2026-09-06,crawl4ai,Crawl4AI,286403
 2026-09-13,crawl4ai,Crawl4AI,289575
 2026-09-20,crawl4ai,Crawl4AI,257521
@@ -43,6 +46,7 @@ week_ending,package,tool,downloads
 2026-11-01,crawl4ai,Crawl4AI,357828
 2026-11-08,crawl4ai,Crawl4AI,366495
 2026-11-15,crawl4ai,Crawl4AI,405891
+2026-11-22,crawl4ai,Crawl4AI,450352
 2026-09-06,crawlee,Crawlee,240533
 2026-09-13,crawlee,Crawlee,200550
 2026-09-20,crawlee,Crawlee,177543
@@ -54,6 +58,7 @@ week_ending,package,tool,downloads
 2026-11-01,crawlee,Crawlee,344343
 2026-11-08,crawlee,Crawlee,316611
 2026-11-15,crawlee,Crawlee,335985
+2026-11-22,crawlee,Crawlee,187676
 2026-09-06,crewai,CrewAI,566555
 2026-09-13,crewai,CrewAI,585356
 2026-09-20,crewai,CrewAI,549919
@@ -65,6 +70,7 @@ week_ending,package,tool,downloads
 2026-11-01,crewai,CrewAI,584916
 2026-11-08,crewai,CrewAI,590729
 2026-11-15,crewai,CrewAI,604974
+2026-11-22,crewai,CrewAI,573619
 2026-09-06,httpx,HTTPX,134512896
 2026-09-13,httpx,HTTPX,136301961
 2026-09-20,httpx,HTTPX,141518265
@@ -76,6 +82,7 @@ week_ending,package,tool,downloads
 2026-11-01,httpx,HTTPX,181641237
 2026-11-08,httpx,HTTPX,194637943
 2026-11-15,httpx,HTTPX,192585518
+2026-11-22,httpx,HTTPX,196467718
 2026-09-06,huggingface-hub,Hugging Face Hub,52081014
 2026-09-13,huggingface-hub,Hugging Face Hub,51952489
 2026-09-20,huggingface-hub,Hugging Face Hub,52381091
@@ -87,6 +94,7 @@ week_ending,package,tool,downloads
 2026-11-01,huggingface-hub,Hugging Face Hub,68286085
 2026-11-08,huggingface-hub,Hugging Face Hub,69521123
 2026-11-15,huggingface-hub,Hugging Face Hub,69585258
+2026-11-22,huggingface-hub,Hugging Face Hub,70806669
 2026-09-06,langchain,LangChain,38155101
 2026-09-13,langchain,LangChain,39682593
 2026-09-20,langchain,LangChain,39535241
@@ -98,6 +106,7 @@ week_ending,package,tool,downloads
 2026-11-01,langchain,LangChain,36815315
 2026-11-08,langchain,LangChain,35271689
 2026-11-15,langchain,LangChain,35953584
+2026-11-22,langchain,LangChain,37486084
 2026-09-06,litellm,LiteLLM,19205331
 2026-09-13,litellm,LiteLLM,19544325
 2026-09-20,litellm,LiteLLM,22406610
@@ -109,6 +118,7 @@ week_ending,package,tool,downloads
 2026-11-01,litellm,LiteLLM,23096924
 2026-11-08,litellm,LiteLLM,22284719
 2026-11-15,litellm,LiteLLM,23634409
+2026-11-22,litellm,LiteLLM,26483355
 2026-09-06,llama-index,LlamaIndex,788351
 2026-09-13,llama-index,LlamaIndex,708080
 2026-09-20,llama-index,LlamaIndex,697228
@@ -120,6 +130,7 @@ week_ending,package,tool,downloads
 2026-11-01,llama-index,LlamaIndex,413417
 2026-11-08,llama-index,LlamaIndex,411755
 2026-11-15,llama-index,LlamaIndex,404070
+2026-11-22,llama-index,LlamaIndex,403864
 2026-09-06,mcp,MCP Python SDK,47870020
 2026-09-13,mcp,MCP Python SDK,52216597
 2026-09-20,mcp,MCP Python SDK,54216448
@@ -131,6 +142,7 @@ week_ending,package,tool,downloads
 2026-11-01,mcp,MCP Python SDK,71968839
 2026-11-08,mcp,MCP Python SDK,79507189
 2026-11-15,mcp,MCP Python SDK,78912052
+2026-11-22,mcp,MCP Python SDK,81015080
 2026-09-06,ollama,Ollama,2772432
 2026-09-13,ollama,Ollama,2798547
 2026-09-20,ollama,Ollama,2862071
@@ -142,6 +154,7 @@ week_ending,package,tool,downloads
 2026-11-01,ollama,Ollama,2950364
 2026-11-08,ollama,Ollama,3251180
 2026-11-15,ollama,Ollama,2923652
+2026-11-22,ollama,Ollama,2823031
 2026-09-06,openai,OpenAI SDK,63257948
 2026-09-13,openai,OpenAI SDK,65486419
 2026-09-20,openai,OpenAI SDK,68213095
@@ -153,6 +166,7 @@ week_ending,package,tool,downloads
 2026-11-01,openai,OpenAI SDK,86494996
 2026-11-08,openai,OpenAI SDK,92006831
 2026-11-15,openai,OpenAI SDK,88891531
+2026-11-22,openai,OpenAI SDK,93708497
 2026-09-06,pandas,pandas,121064642
 2026-09-13,pandas,pandas,118846887
 2026-09-20,pandas,pandas,125209424
@@ -164,6 +178,7 @@ week_ending,package,tool,downloads
 2026-11-01,pandas,pandas,168769336
 2026-11-08,pandas,pandas,177568312
 2026-11-15,pandas,pandas,159810137
+2026-11-22,pandas,pandas,161963855
 2026-09-06,pdm,PDM,2113855
 2026-09-13,pdm,PDM,1485053
 2026-09-20,pdm,PDM,255916
@@ -175,6 +190,7 @@ week_ending,package,tool,downloads
 2026-11-01,pdm,PDM,358430
 2026-11-08,pdm,PDM,382655
 2026-11-15,pdm,PDM,333143
+2026-11-22,pdm,PDM,401892
 2026-09-06,pip,pip,94104584
 2026-09-13,pip,pip,93442116
 2026-09-20,pip,pip,94797189
@@ -186,6 +202,7 @@ week_ending,package,tool,downloads
 2026-11-01,pip,pip,136299352
 2026-11-08,pip,pip,154004094
 2026-11-15,pip,pip,148140600
+2026-11-22,pip,pip,139438301
 2026-09-06,playwright,Playwright,19607305
 2026-09-13,playwright,Playwright,21201540
 2026-09-20,playwright,Playwright,22148765
@@ -197,6 +214,7 @@ week_ending,package,tool,downloads
 2026-11-01,playwright,Playwright,30493418
 2026-11-08,playwright,Playwright,30704613
 2026-11-15,playwright,Playwright,32777539
+2026-11-22,playwright,Playwright,34398826
 2026-09-06,poetry,Poetry,9797117
 2026-09-13,poetry,Poetry,9328186
 2026-09-20,poetry,Poetry,9247955
@@ -208,6 +226,7 @@ week_ending,package,tool,downloads
 2026-11-01,poetry,Poetry,10506225
 2026-11-08,poetry,Poetry,10565925
 2026-11-15,poetry,Poetry,10422310
+2026-11-22,poetry,Poetry,10340506
 2026-09-06,polars,Polars,12493025
 2026-09-13,polars,Polars,11550383
 2026-09-20,polars,Polars,11629901
@@ -219,6 +238,7 @@ week_ending,package,tool,downloads
 2026-11-01,polars,Polars,16681754
 2026-11-08,polars,Polars,15147525
 2026-11-15,polars,Polars,15971243
+2026-11-22,polars,Polars,17532045
 2026-09-06,pydantic-ai,Pydantic AI,1228010
 2026-09-13,pydantic-ai,Pydantic AI,1221652
 2026-09-20,pydantic-ai,Pydantic AI,1195906
@@ -230,6 +250,7 @@ week_ending,package,tool,downloads
 2026-11-01,pydantic-ai,Pydantic AI,1728366
 2026-11-08,pydantic-ai,Pydantic AI,1601738
 2026-11-15,pydantic-ai,Pydantic AI,1492878
+2026-11-22,pydantic-ai,Pydantic AI,1694299
 2026-09-06,requests,Requests,268877908
 2026-09-13,requests,Requests,269233540
 2026-09-20,requests,Requests,275842919
@@ -241,6 +262,7 @@ week_ending,package,tool,downloads
 2026-11-01,requests,Requests,356949658
 2026-11-08,requests,Requests,357450665
 2026-11-15,requests,Requests,342580331
+2026-11-22,requests,Requests,348820878
 2026-09-06,ruff,Ruff,65683980
 2026-09-13,ruff,Ruff,66079710
 2026-09-20,ruff,Ruff,67684156
@@ -263,6 +285,7 @@ week_ending,package,tool,downloads
 2026-11-01,scrapling,Scrapling,316403
 2026-11-08,scrapling,Scrapling,393002
 2026-11-15,scrapling,Scrapling,383917
+2026-11-22,scrapling,Scrapling,328517
 2026-09-06,scrapy,Scrapy,919729
 2026-09-13,scrapy,Scrapy,1151377
 2026-09-20,scrapy,Scrapy,1056079
@@ -274,6 +297,7 @@ week_ending,package,tool,downloads
 2026-11-01,scrapy,Scrapy,1417651
 2026-11-08,scrapy,Scrapy,794219
 2026-11-15,scrapy,Scrapy,779812
+2026-11-22,scrapy,Scrapy,657623
 2026-09-06,selenium,Selenium,6414618
 2026-09-13,selenium,Selenium,6187742
 2026-09-20,selenium,Selenium,6541282
@@ -285,6 +309,7 @@ week_ending,package,tool,downloads
 2026-11-01,selenium,Selenium,7565723
 2026-11-08,selenium,Selenium,6952918
 2026-11-15,selenium,Selenium,6445469
+2026-11-22,selenium,Selenium,6501858
 2026-09-06,transformers,Transformers,21648536
 2026-09-13,transformers,Transformers,20461829
 2026-09-20,transformers,Transformers,21629511
@@ -296,6 +321,7 @@ week_ending,package,tool,downloads
 2026-11-01,transformers,Transformers,29221621
 2026-11-08,transformers,Transformers,28673463
 2026-11-15,transformers,Transformers,27730890
+2026-11-22,transformers,Transformers,27568516
 2026-09-06,uv,uv,28008035
 2026-09-13,uv,uv,28374971
 2026-09-20,uv,uv,27772042
@@ -307,6 +333,7 @@ week_ending,package,tool,downloads
 2026-11-01,uv,uv,37503463
 2026-11-08,uv,uv,48004195
 2026-11-15,uv,uv,49854059
+2026-11-22,uv,uv,51503277
 2026-09-06,vllm,vLLM,526872
 2026-09-13,vllm,vLLM,423847
 2026-09-20,vllm,vLLM,408749
@@ -318,3 +345,4 @@ week_ending,package,tool,downloads
 2026-11-01,vllm,vLLM,695150
 2026-11-08,vllm,vLLM,657930
 2026-11-15,vllm,vLLM,582017
+2026-11-22,vllm,vLLM,681792
