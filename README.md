@@ -10,6 +10,7 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | HTTPX | `httpx` | 196,467,718 | +2% |
 | pandas | `pandas` | 161,963,855 | +1% |
 | pip | `pip` | 139,438,301 | -6% |
+| Ruff | `ruff` | 107,532,645 | +6% |
 | OpenAI SDK | `openai` | 93,708,497 | +5% |
 | MCP Python SDK | `mcp` | 81,015,080 | +3% |
 | Beautiful Soup | `beautifulsoup4` | 75,087,272 | +2% |
@@ -20,7 +21,6 @@ Weekly adoption numbers for AI and developer tools, collected by Quietbyte (AI &
 | Playwright | `playwright` | 34,398,826 | +5% |
 | Transformers | `transformers` | 27,568,516 | -1% |
 | LiteLLM | `litellm` | 26,483,355 | +12% |
-| Black | `black` | 25,452,513 | +1% |
 
 ## Findings from our scrapers
 
@@ -38,6 +38,8 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-24 · Short: [PeakCut: 1,537 GitHub stars in 6 days](https://youtube.com/shorts/ns-q5t3us3A)
+- 2026-11-23 · Short: [boring-marketing-skills: 585 GitHub stars in 2 days](https://youtube.com/shorts/5F3sVOH-VWk)
 - 2026-11-21 · Short: [dsh-Go: 27,460 GitHub stars in 25 days](https://youtube.com/shorts/ILWxoigKusA)
 - 2026-11-21 · Short: [gputaskman: 3,447 GitHub stars in 14 days](https://youtube.com/shorts/-U7K7PDZc6s)
 - 2026-11-20 · Short: [kiri: 10,900 GitHub stars in 17 days](https://youtube.com/shorts/ilYdxwNl-lQ)
@@ -66,8 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-11-10 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/KZk1DfqyP5M)
 - 2026-11-09 · Short: [LiquidAI: LFM3-1.7B: $0.08 per million input tokens](https://youtube.com/shorts/VD7cnnfXdWg)
 - 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
-- 2026-11-04 · Short: [#3 trending on Hugging Face: nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](https://youtube.com/shorts/1svODzPijIo)
-- 2026-11-04 · Short: [#1 trending on Hugging Face: LiquidAI/LFM3-1.7B](https://youtube.com/shorts/EftC357SIZo)
 
 ## Files
 
