@@ -38,6 +38,7 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 
 ## Videos
 
+- 2026-11-24 · Short: [neonclipping: 2,078 GitHub stars in 3 days](https://youtube.com/shorts/Fnbeu0UaYns)
 - 2026-11-24 · Short: [PeakCut: 1,537 GitHub stars in 6 days](https://youtube.com/shorts/ns-q5t3us3A)
 - 2026-11-23 · Short: [boring-marketing-skills: 585 GitHub stars in 2 days](https://youtube.com/shorts/5F3sVOH-VWk)
 - 2026-11-21 · Short: [dsh-Go: 27,460 GitHub stars in 25 days](https://youtube.com/shorts/ILWxoigKusA)
@@ -67,7 +68,6 @@ Measured with our own Apify Actors on fixed samples, re-run monthly. Counts only
 - 2026-11-10 · Short: [Google: Gemini Omni 1.2 Flash: $1.5 per million input tokens](https://youtube.com/shorts/SS8rGI3K4KM)
 - 2026-11-10 · Short: [#3 trending on Hugging Face: moonshotai/Kimi-K3.1-Pro](https://youtube.com/shorts/KZk1DfqyP5M)
 - 2026-11-09 · Short: [LiquidAI: LFM3-1.7B: $0.08 per million input tokens](https://youtube.com/shorts/VD7cnnfXdWg)
-- 2026-11-05 · Short: [Crawlee downloads +37% in a week](https://youtube.com/shorts/zd8QT8ZgST8)
 
 ## Files
 
